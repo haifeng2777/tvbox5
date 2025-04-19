@@ -1,10 +1,10 @@
 {
   "作者": "心魔",
   "站名": "饭团",
-  "主页url": "https://www.fantuanhd.com/",
+  "主页url": "https://www.fantuan.vip",
   "热门": "",
   "分类": "电影$20#剧集$21#综艺$22#动漫$23#纪录片$24#",
-  "分类url": "https://www.fantuanhd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+  "分类url": "https://www.fantuan.vip/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
   "数组": "stui-vodlist__box&&</h4>",
   "副标题": "",
   "图片": "data-original=\"&&\"",
